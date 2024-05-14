@@ -1,0 +1,68 @@
+<div class="col-md-6">
+            <!-- general form elements -->
+            <div class="card card-primary">
+              <div class="card-header" style="background-color: #ff6a06;">
+                <h3 class="card-title">Station List</h3>
+              </div>
+              <!-- /.card-header -->
+              <!-- form start -->
+              <form>
+                <div class="card-body">
+                  <table id="tbl1" class="table">
+                    <thead>
+                      <tr>
+                        <th scope="col">Station Name</th>
+                        <th scope="col">Manager NIC</th>
+                        <th scope="col">Station Town</th>
+                      </tr>
+                    </thead>
+                    <tbody>
+                      <tr>
+                        <td>ST001</td>
+                        <td>121234123</td>
+                        <td>Kurunegala</td>
+                      </tr>
+                    </tbody>
+                  </table>
+                </div>
+                <!-- /.card-body -->
+
+                <!-- <div class="card-footer">
+                  
+                </div> -->
+              </form>
+            </div>
+            <!-- /.card -->
+
+          </div>
+
+
+<li class="nav-item">
+            <a href="mytk.php" class="nav-link">
+              <i class="nav-icon fas fa-tasks"></i>
+              <p>
+                My Fuel Token(s)
+                <!-- <i class="right fas fa-angle-left"></i> -->
+              </p>
+            </a>
+          </li>
+
+          <li class="nav-item">
+            <a href="vtk.php" class="nav-link">
+              <i class="nav-icon fas fa-tasks"></i>
+              <p>
+                View Fuel Token
+                <!-- <i class="right fas fa-angle-left"></i> -->
+              </p>
+            </a>
+          </li>
+
+          <li class="nav-item">
+            <a href="ptk.php" class="nav-link">
+              <i class="nav-icon fas fa-tasks"></i>
+              <p>
+                Fuel Token Pay
+                <!-- <i class="right fas fa-angle-left"></i> -->
+              </p>
+            </a>
+          </li>
